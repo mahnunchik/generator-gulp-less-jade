@@ -20,7 +20,12 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "gulp",
+    "jade",
+    "less",
+    "browsersync",
+    "imagemin"
   ],
   "dependencies": {
     "yeoman-generator": "^0.17.0",
