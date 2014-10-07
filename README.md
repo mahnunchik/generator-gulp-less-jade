@@ -1,7 +1,12 @@
-# generator-gulp-less-jade [![Build Status](https://secure.travis-ci.org/mahnunchik/generator-gulp-less-jade.png?branch=master)](https://travis-ci.org/mahnunchik/generator-gulp-less-jade)
+# generator-gulp-less-jade [![Build Status](https://travis-ci.org/mahnunchik/generator-gulp-less-jade.svg)](https://travis-ci.org/mahnunchik/generator-gulp-less-jade)
 
 > [Yeoman](http://yeoman.io) generator
 
+* [Gulp](http://gulpjs.com/)
+* [Less](http://lesscss.org/)
+* [Jade](http://jade-lang.com/)
+* [BrowserSync](http://www.browsersync.io/)
+* [gulp-imagemin](https://www.npmjs.org/package/gulp-imagemin)
 
 ## Getting Started
 
