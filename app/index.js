@@ -1,6 +1,5 @@
 'use strict';
-var util = require('util');
-var path = require('path');
+
 var yeoman = require('yeoman-generator');
 var yosay = require('yosay');
 
@@ -63,6 +62,12 @@ var GulpLessJadeGenerator = yeoman.generators.Base.extend({
   },
 
   end: function () {
+    var howToInstall = '\nInstall dependencies by running `npm install & bower install`';
+    if (this.options['skip-install']) {
+      this.log(howToInstall);
+      return;
+    }
+
     this.installDependencies();
   }
 });

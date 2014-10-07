@@ -1,12 +1,12 @@
 {
   "name": "generator-gulp-less-jade",
-  "version": "0.0.0",
-  "description": "Yeoman generator",
+  "version": "0.1.0",
+  "description": "Yeoman generator for gulp less jade app",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "mahnunchik/generator-gulp-less-jade",
   "author": {
-    "name": "Eugeny",
+    "name": "Eugeny Vlasenko",
     "email": "mahnunchik@gmail.com",
     "url": "https://github.com/mahnunchik"
   },

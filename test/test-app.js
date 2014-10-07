@@ -1,4 +1,4 @@
-/*global describe, beforeEach, it*/
+/*global describe, before, it*/
 'use strict';
 
 var path = require('path');
@@ -30,11 +30,10 @@ describe('gulp-less-jade', function () {
       '.editorconfig',
       '.jshintrc',
       '.bowerrc',
-      '.gitignore'
+      '.gitignore',
       '.gitattributes'
     ]);
   });
-
 
   it('creates gulp file', function () {
     assert.file('gulpfile.js');
