@@ -1,6 +1,19 @@
 {
-  "name": "<%=appname%>",
+  "name": "package",
   "version": "0.0.0",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer-core": "^3.1.1",
+    "browser-sync": "^1.5.4",
+    "del": "^0.1.3",
+    "gulp": "^3.8.8",
+    "gulp-imagemin": "^1.0.1",
+    "gulp-jade": "^0.8.0",
+    "gulp-jshint": "^1.8.5",
+    "gulp-less": "^1.3.6",
+    "gulp-load-plugins": "^0.7.0",
+    "gulp-postcss": "^2.0.0",
+    "gulp-util": "^3.0.1"
+  }
 }

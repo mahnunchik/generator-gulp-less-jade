@@ -1,6 +1,7 @@
 {
-  "name": "<%=appname%>",
+  "name": "package",
   "version": "0.0.0",
-  "dependencies": {}
+  "dependencies": {
+    "normalize.css": "~3.0.2"
+  }
 }
-
