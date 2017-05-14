@@ -1,5 +1,7 @@
 # generator-gulp-less-jade [![Build Status](https://travis-ci.org/mahnunchik/generator-gulp-less-jade.svg)](https://travis-ci.org/mahnunchik/generator-gulp-less-jade)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mahnunchik/generator-gulp-less-jade.svg)](https://greenkeeper.io/)
+
 > [Yeoman](http://yeoman.io) generator
 
 * [Gulp](http://gulpjs.com/)
